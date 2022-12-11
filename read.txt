@@ -1,0 +1,16 @@
+STEP 1 // CREATE JSON  FILE 
+{
+    "name": "node-http",
+    "version": "1.0.0",
+    "description": "Node HTTP Module Example",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server"
+    }
+}
+
+
+// STEP 2 : INSTALL EXPRESS 
+npm install express@4.17.1
+thats where the node modules comes form 
